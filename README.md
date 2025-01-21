@@ -27,7 +27,7 @@ Stay ahead with **The Morning Post**—your ultimate platform for daily stock ma
 ![Dashboard Screenshot](the morning post-Images/news or artical.jpeg)
 
 ### stock market page
-![Analytics Page Screenshot](the morning post-Images/stock market.jpeg)
+![Analytics Page Screenshot](C:\Users\rubik\the-morning-post\the morning post-Images)
 
 ### Subscribtion Page
 ![Profile Settings Screenshot](the morning post-Images/Subscribtion.jpeg)
