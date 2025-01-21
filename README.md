@@ -24,13 +24,14 @@ Stay ahead with **The Morning Post**—your ultimate platform for daily stock ma
 ## Dashboards
 
 ### News or artical page
-![Dashboard Screenshot](the morning post-Images/news or artical.jpeg)
+![Dashboard Screenshot](the%20morning%20post-Images/news%20or%20artical.jpeg)
+
 
 ### stock market page
-![Analytics Page Screenshot](C:\Users\rubik\the-morning-post\the morning post-Images)
+![Dashboard Screenshot](the%20morning%20post-Images/stock%20market.jpeg)
 
 ### Subscribtion Page
-![Profile Settings Screenshot](the morning post-Images/Subscribtion.jpeg)
+![Dashboard Screenshot](the%20morning%20post-Images/Subscribtion.jpeg)
 
 
 
