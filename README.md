@@ -19,7 +19,22 @@ Stay ahead with **The Morning Post**—your ultimate platform for daily stock ma
 - Analyze performance trends
 - Track top gainers and losers
 
-![Dashboard Screenshot](newsorartical.jpeg)
+## Screenshots
+
+## Dashboards
+
+### News or artical page
+![Dashboard Screenshot](the morning post-Images/news or artical.jpeg)
+
+### stock market page
+![Analytics Page Screenshot](the morning post-Images/stock market.jpeg)
+
+### Subscribtion Page
+![Profile Settings Screenshot](the morning post-Images/Subscribtion.jpeg)
+
+
+
+
 
 
 
