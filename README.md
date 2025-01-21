@@ -28,10 +28,26 @@ Stay ahead with **The Morning Post**—your ultimate platform for daily stock ma
 
 
 ### stock market page
-![Dashboard Screenshot](the%20morning%20post-Images/stock%20market.jpeg)
+![Dashboard Screenshot](the%20morning%20post-Images/stock%20market.png)
 
 ### Subscribtion Page
 ![Dashboard Screenshot](the%20morning%20post-Images/Subscribtion.jpeg)
+
+### Footer Page
+![Dashboard Screenshot](the%20morning%20post-Images/Footer.jpeg)
+
+
+## Payment method
+
+### credit card Page
+![Payment Screenshot](the%20morning%20post-Images/Credit%20card.jpeg)
+
+### Bank transfer Page
+![Payment Screenshot](the%20morning%20post-Images/Bank%20Transfer.jpeg)
+
+### UPI Page
+![Payment Screenshot](the%20morning%20post-Images/UPI%20payment.jpeg)
+
 
 
 
