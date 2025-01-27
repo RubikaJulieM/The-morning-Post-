@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Morning Post | Global Market</title>
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="assets/css/globalmarket.css" />
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+  />
+  </head>
+  <body>
+    <header class="header">
+      <div class="logo">
+        <h1>The Morning Post</h1>
+      </div>
+      <div class="rightNav">
+        <a target="_blank" href="index.html">News/Articles</a>
+        <a target="_blank" class="active" href="globalmarket.html"
+          >Global Market</a
+        >
+        <a target="_blank" href="subscription.html">Subscription</a>
+      </div>
+    </header>
+    <main class="bodySection">
+      <div class="mainContentWrapper">
+        <div class="headerBox">
+          <input type="text" placeholder="Search for Stocks">
+          <div class="downloadSection">
+            <a href="assets/docs/morning_post_doc.pdf" download="assets/docs/morning_post_doc.pdf" ><i class="fa-solid fa-download"></i> Download Report</a>
+          </div>
+        </div>
+
+        <div class="chartDiv">
+          <div class="graphDetails">
+            <div>
+              <h1 class="stockSymbol">AAPL</h1>
+              <!-- <h5 class="companyName">Apple Inc</h5> -->
+            </div>
+            <div>
+              <h2 class="currentPrice">$25000.89</h2>
+              <p class="changedPercentage" style="color: green;">(2.38%)</p>
+            </div>
+          </div>
+
+          <div class="dataVisibleDiv">
+            <div class="dataVisible">1D</div>
+            <div class="dataVisible">1W</div>
+            <div class="dataVisible">1M</div>
+            <div class="dataVisible">1Y</div>
+          </div>
+          <div class="graph">
+
+            <span class="loader"></span>
+
+          <canvas class="chart">
+          </canvas>
+          <div class="pageNotFound">
+            <img src="assets/images/pageNotFound.jpg" alt="">
+          </div>
+          
+          </div>
+         
+        </div>
+      </div>
+
+      <div class="relatedPostContainer customScroll">
+        <div class="headingText">
+          <div class="rightHeading">
+            <h3 class="active">Most Active</h3>
+            <h3>Gainers</h3>
+            <h3>Losers</h3>
+          </div>
+        </div>
+        <div class="tableBody customScroll" id="activeStocks">
+
+        </div>
+        <div class="tableBody customScroll" id="topGainers">
+
+        </div>
+        <div class="tableBody customScroll" id="topLosers">
+
+        </div>
+      </div>
+    </main>
+    <footer class="footer">
+      <div class="footerContainer">
+          <div class="footertHeader">
+              <h1>The Morning Post</h1>
+              <p>The Morning Post delivers daily stock market insights ,expert analysis ,and investment strategies to empower your financial journey. Stay informed and make confident decisions with our trusted updates </p>
+          </div>
+          <div class="footerContent">
+              <div class="address">
+                  <h3>Contact Us</h3>
+                  <div class="div">
+                      <b>Email Address :</b><p>themorningpostpremarket@gmail.com</p>
+                  </div>
+                  <div class="div">
+                      <b>Phone No:</b><p>+91-9360976118, +91-9360735045</p>
+                  </div>
+                  <div class="div">
+                      <b>Address:</b><p>The Morning Post,10/25c,East Puliyampatti,Kamarajar Nagar,Elampillai,Salem,Tamil Nadu - 637502</p>
+                  </div>
+                  
+              </div>
+              <div class="usefulLinks">
+                  <h3>Quick Links</h3>
+                  <a href="news.html">News/Articles</a>
+                  <a href="globalmarket.html">Globalmarket</a>
+                  <a href="subscription.html">Subscription</a>
+              </div>
+          </div>
+      </div>
+  </footer>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script> 
+    <script src="assets/js/script.js"></script>
+    <script src="assets/js/globalmarket.js"></script>
+  </body>
+</html>
